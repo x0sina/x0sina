@@ -35,9 +35,9 @@ Building tools that *empower privacy, scalability, and design harmony.*
 
 | Project | Description | Stack |
 |----------|--------------|--------|
-| 🛡️ [**PasarGuard**](https://github.com/PasarGuard/panel) | Unified censorship-resistant panel with live monitoring | FastAPI • React • PostgreSQL |
-| 📊 [**Marzban Sub**](https://github.com/x0sina/marzban-sub) | PHP subscription manager for proxy services | PHP • MySQL |
-| 🎨 [**Subscription Template**](https://github.com/PasarGuard/subscription-template) | Modern responsive dashboard template with multi-language support | React • TypeScript • Vite |
+| 🛡️ [**PasarGuard**](https://github.com/PasarGuard/panel) | Unified censorship-resistant panel with live monitoring | FastAPI • React • ShadCN |
+| 📊 [**Marzban Sub**](https://github.com/x0sina/marzban-sub) | PHP subscription manager for proxy services | AlpineJS • PHP • TailwindCSS |
+| 🎨 [**PasarGuard Template**](https://github.com/PasarGuard/subscription-template) | Modern responsive dashboard template with multi-language support | React • ShadCN • Vite |
 
 ---
 
