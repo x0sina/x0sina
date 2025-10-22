@@ -5,7 +5,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-x0sina-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x0sina)
-[![Telegram](https://img.shields.io/badge/Telegram-@vvcsina-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vvcsina)
+[![Telegram](https://img.shields.io/badge/Telegram-@x0sina-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/x0sina)
 [![Website](https://img.shields.io/badge/x0sina.com-0F9D58?style=for-the-badge&logo=globe&logoColor=white)](https://x0sina.com)
 
 
@@ -56,7 +56,7 @@ Building tools that *empower privacy, scalability, and design harmony.*
 <div align="center">
 
 📫 **Connect**  
-[Telegram](https://t.me/vvcsina) • [GitHub](https://github.com/x0sina) • [Website](https://x0sina.com)  
+[Telegram](https://t.me/x0sina) • [GitHub](https://github.com/x0sina) • [Website](https://x0sina.com)  
 
 <img src="https://komarev.com/ghpvc/?username=x0sina&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
