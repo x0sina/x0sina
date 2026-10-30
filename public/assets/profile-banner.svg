@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430" role="img" aria-labelledby="title desc">
+  <title id="title">Sina — Interfaces for a freer internet.</title>
+  <desc id="desc">TypeScript developer. Open source. Digital freedom. A mint network globe against a graphite background.</desc>
+  <defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b4f5cc" stroke-opacity=".035"/></pattern><radialGradient id="glow"><stop stop-color="#b4f5cc" stop-opacity=".12"/><stop offset="1" stop-color="#b4f5cc" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1280" height="430" rx="18" fill="#111512"/><rect width="1280" height="430" rx="18" fill="url(#grid)"/>
+  <g font-family="Arial,Helvetica,sans-serif"><path d="m51 46 12 12-12 12m19-24 12 12-12 12" fill="none" stroke="#b4f5cc" stroke-width="3"/><text x="100" y="67" fill="#f0f1e9" font-size="28" font-weight="700">sina<tspan fill="#b4f5cc">.</tspan></text>
+  <text x="51" y="132" fill="#a0aaa2" font-family="monospace" font-size="11" letter-spacing="2">DEVELOPER. MAKER. OPEN-SOURCE MIND.</text>
+  <text x="47" y="213" fill="#f0f1e9" font-size="73" letter-spacing="-4">Interfaces for</text><text x="47" y="291" fill="#f0f1e9" font-size="73" letter-spacing="-4">a <tspan fill="#b4f5cc">freer</tspan> internet<tspan fill="#b4f5cc">.</tspan></text>
+  <path d="M107 306Q188 297 265 302" fill="none" stroke="#b4f5cc" stroke-width="2"/>
+  <text x="51" y="370" fill="#a0aaa2" font-family="monospace" font-size="12">TYPESCRIPT  /  OPEN SOURCE  /  DIGITAL FREEDOM</text></g>
+  <circle cx="1008" cy="213" r="205" fill="url(#glow)"/>
+  <g transform="rotate(-25 1008 213)" fill="none" stroke="#b4f5cc" stroke-opacity=".25" stroke-width=".8"><circle cx="1008" cy="213" r="130"/><ellipse cx="1008" cy="213" rx="100" ry="130"/><ellipse cx="1008" cy="213" rx="65" ry="130"/><ellipse cx="1008" cy="213" rx="23" ry="130"/><ellipse cx="1008" cy="213" rx="130" ry="28"/><ellipse cx="1008" cy="160" rx="119" ry="23"/><ellipse cx="1008" cy="266" rx="119" ry="23"/><ellipse cx="1008" cy="115" rx="85" ry="14"/><ellipse cx="1008" cy="311" rx="85" ry="14"/></g>
+  <ellipse cx="1008" cy="213" rx="195" ry="55" transform="rotate(-30 1008 213)" fill="none" stroke="#b4f5cc" stroke-opacity=".6"/>
+  <circle cx="1167" cy="121" r="5" fill="#b4f5cc"/><circle cx="1167" cy="121" r="12" fill="none" stroke="#b4f5cc" stroke-opacity=".3"/><circle cx="851" cy="305" r="4" fill="#b4f5cc"/>
+  <rect x="980" y="185" width="56" height="56" rx="15" fill="#111512" stroke="#b4f5cc" stroke-opacity=".7"/><path d="m992 201 11 12-11 12m17-24 11 12-11 12" fill="none" stroke="#b4f5cc" stroke-width="3"/>
+  <text x="1008" y="390" text-anchor="middle" fill="#a0aaa2" font-family="monospace" font-size="8" letter-spacing="1.5">BUILT TO CONNECT. DESIGNED TO EMPOWER.</text>
+</svg>

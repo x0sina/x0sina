@@ -1,86 +1,42 @@
-<div align="center">
+<a href="https://x0sina.com"><img src="./public/assets/profile-banner.svg" alt="Sina — Interfaces for a freer internet. TypeScript, open source, and digital freedom." width="100%" /></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Sina;TypeScript+Developer;Building+Digital+Freedom;Open+Source+Enthusiast" alt="Typing SVG" />
+<br />
 
-<br>
+I'm **Sina**, a TypeScript developer interested in thoughtful interfaces, open source, and network freedom. I like turning complex systems into tools that feel clear, useful, and approachable.
 
-[![GitHub](https://img.shields.io/badge/GitHub-x0sina-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x0sina)
-[![Telegram](https://img.shields.io/badge/Telegram-@x0sina-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/x0sina)
-[![Website](https://img.shields.io/badge/x0sina.com-0F9D58?style=for-the-badge&logo=globe&logoColor=white)](https://x0sina.com)
+[Explore my website](https://x0sina.com) · [Say hello on Telegram](https://t.me/x0sina) · [Browse my repositories](https://github.com/x0sina?tab=repositories)
 
+<br />
 
-</div>
+### Selected work
 
----
+Open-source projects featured in my portfolio. Follow each repository for its current documentation and contributors.
 
-### 🧠 About
-Minimalist developer passionate about **TypeScript**, **open source**, and **network freedom**.  
-Building tools that *empower privacy, scalability, and design harmony.*
+| Project | What it does | Explore |
+| :--- | :--- | :--- |
+| **PasarGuard Template** | A responsive subscription experience with four languages, dark mode, QR codes, and copyable connection links. | [Repository ↗](https://github.com/PasarGuard/subscription-template) |
+| **PasarGuard Panel** | A censorship-resistant proxy management solution with a web dashboard, REST API, multi-node support, and traffic statistics. | [Repository ↗](https://github.com/PasarGuard/panel) |
+| **Marzban Sub** | A customizable Marzban subscription template with English, Persian, and Russian support, application links, and copyable configurations. | [Repository ↗](https://github.com/x0sina/marzban-sub) |
 
----
+<br />
 
-### ⚙️ Tech Stack
+### How I think about building
 
-<div align="center">
+**Clarity over clutter.** Every interaction should earn its place.  
+**Open by design.** Tools are better when people can explore, adapt, and improve them.  
+**Freedom through good tools.** Privacy, access, and control matter from the start.
 
-[![React][React.js]][React-url] [![TypeScript][TypeScript]][TypeScript-url] [![Next.js][Next.js]][Next-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url] [![Vite][Vite]][Vite-url]
+<br />
 
-[![Node.js][Node.js]][Node.js-url] [![Express.js][Express.js]][Express.js-url] [![Docker][Docker]][Docker-url] [![Shadcn][Shadcn]][Shadcn-url]
+### In the toolkit
 
-</div>
+TypeScript · React · Next.js · Tailwind CSS · shadcn/ui · Vite · Node.js · Docker
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|----------|--------------|--------|
-| 🛡️ [**PasarGuard**](https://github.com/PasarGuard/panel) | Unified censorship-resistant panel with live monitoring | FastAPI • React • ShadCN |
-| 📊 [**Marzban Sub**](https://github.com/x0sina/marzban-sub) | PHP subscription manager for proxy services | AlpineJS • PHP • TailwindCSS |
-| 🎨 [**PasarGuard Template**](https://github.com/PasarGuard/subscription-template) | Modern responsive dashboard template with multi-language support | React • ShadCN • Vite |
+<br />
 
 ---
 
-### 🎨 Design Philosophy
+**Good things start with a hello.**  
+[Telegram / @x0sina](https://t.me/x0sina) · [x0sina.com](https://x0sina.com)
 
-> “Code is art — simplicity is elegance.”
-
-- 🎯 **User-centered**, built for real interaction  
-- ⚡ **Fast**, optimized at every layer  
-- 🔒 **Private**, secure by design  
-- 📱 **Responsive**, mobile-first mindset  
-
----
-
-
-<div align="center">
-
-📫 **Connect**  
-[Telegram](https://t.me/x0sina) • [GitHub](https://github.com/x0sina) • [Website](https://x0sina.com)  
-
-<img src="https://komarev.com/ghpvc/?username=x0sina&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-
-<br><br>
-<i>"Building the future, one clean commit at a time."</i> 🚀
-
-</div>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-[TypeScript-url]: https://www.typescriptlang.org/
-[Next.js]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[TailwindCSS]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[TailwindCSS-url]: https://tailwindcss.com/
-[Vite]: https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
-[Vite-url]: https://vitejs.dev/
-[Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-[Node.js-url]: https://nodejs.org/
-[Express.js]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-[Express.js-url]: https://expressjs.com/
-[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[Docker-url]: https://www.docker.com/
-[Shadcn]: https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white
-[Shadcn-url]: https://ui.shadcn.com/
+<sub>Thoughtfully built. Open by design.</sub>
